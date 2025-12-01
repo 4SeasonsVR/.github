@@ -6,7 +6,7 @@ Industrial technical documentation for code, tooling and infrastructure powering
 
 ## Overview
 
-![4 Seasons Event](https://photos.4seasons.dance/s/resynced/photos/9b863895-0f14-4d7b-a595-3b2dd33b894a)
+![4 Seasons Event](https://raw.githubusercontent.com/4SeasonsVR/.github/main/profile/4SEASONS-NIGHTCORE-26.jpeg)
 
 4 Seasons is an annual mixed-reality event in the Netherlands focused on merging VR culture with real-world gatherings.  
 This GitHub organisation contains internal code, infrastructure, automations and future public software for the event ecosystem.
