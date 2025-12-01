@@ -21,16 +21,6 @@ Repositories within this organization may include:
 
 - Web applications and landing pages
 - Ticketing, registration and access control logic
-- Backend services and REST or GraphQL API layers
+- Backend services
 - Internal operations tools and event automation
-- Discord and VR integration utilities
-- DevOps, IaC, deployment and build pipelines
-
-Each repository is expected to provide its own documentation and architectural explanation.
-
----
-
-## Repository Standards
-
-All repositories must include:
-
+- Discord and VR integrations
